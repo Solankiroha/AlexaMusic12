@@ -1,7 +1,7 @@
 {
-    "name": "Alexa Music",
+    "name": "Ring  Music",
     "description": "Deploy Alexa music on railwey make sure to star the projecte.",
-    "logo": "https://telegra.ph/file/ba967503682a55beaedd3.png",
+    "logo": "https://graph.org/file/b5c5d15920fbb49b48aab.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -73,7 +73,7 @@
               "url": "heroku/python"
           },
           {
-              "url": "https://github.com/heroku/heroku-buildpack-activestorage-preview.git"
+              "url": "https://github.com/Solankiroha/AlexaMusic12-buildpack-activestorage-preview.git"
           }
       ],
       "stack": "container"
